@@ -70,11 +70,10 @@
           <mj-text align="center" color="#ffffff" padding="25px 50px 25px 50px">
             <div style="text-align: center;">
               <font size="4">
-                Una exclusiva comunidad creada para fortalecer nuestros lazos, a través de la cual podrås disfrutar s diferentes beneficios, privilegios y novedades que permanentemente estaremos desarrollando en PFS Realty Group para nuestros inversionistas. Conoce mås y activa tu membresia utilizando el siguiente usuario:
-              </font>
+                Una exclusiva comunidad creada para fortalecer nuestros lazos, a través de la cual podrås disfrutar s diferentes beneficios, privilegios y novedades que permanentemente estaremos desarrollando en PFS Realty Group para nuestros inversionistas. Conoce mås y ¡activa tu membresía!</font>
             </div>
           </mj-text>
-          <mj-button align="center" background-color="#a7d6f4" color="#001F33" font-weight="normal" border-radius="3px" line-height="120%" target="_blank" vertical-align="middle" border="none" text-align="center" href="${link}" container-background-color="#001F33" font-size="20px" padding="0px 25px 20px 25px" inner-padding="10px 25px 10px 25px">Ingresar</mj-button>
+          <mj-button align="center" background-color="#a7d6f4" color="#001F33" font-weight="normal" border-radius="3px" line-height="120%" target="_blank" vertical-align="middle" border="none" text-align="center" href="${link}" container-background-color="#001F33" font-size="20px" padding="0px 25px 20px 25px">Ingresar</mj-button>
         </mj-column>
       </mj-section>
     </mj-wrapper>
