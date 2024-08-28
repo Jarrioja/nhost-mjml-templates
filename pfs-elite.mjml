@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+
+    <mj-html-attributes>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="text-color" text-color="#000000"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="font-family" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="font-size" font-size="14px"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="line-height" line-height="1.7"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="font-weight" font-weight="400"></mj-html-attribute>
+      <mj-html-attribute class="easy-email" multiple-attributes="false" attribute-name="responsive" responsive="true"></mj-html-attribute>
+
+    </mj-html-attributes>
+
+    <mj-breakpoint width="480px" />
+
+    <mj-attributes>
+      <mj-text font-size="14px" />
+      <mj-text line-height="1.7" />
+      <mj-text font-weight="400" />
+      <mj-all font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif" />
+      <mj-text font-size="14px" />
+      <mj-text color="#000000" />
+      <mj-text line-height="1.7" />
+      <mj-text font-weight="400" />
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#efeeea" width="600px">
+    <mj-wrapper padding="20px 0px 20px 0px" border="none" direction="ltr" text-align="center" background-color="#001f32">
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-image align="center" height="78px" src="https://pfsrealty.kinsta.cloud/wp-content/uploads/2024/08/logo.png" width="254px" padding="0px 0px 0px 0px"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper border="none" direction="ltr" text-align="center" background-color="#dfe2e5" padding="20px 0px 20px 0px">
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text align="center" color="#001F33" padding="10px 25px 10px 25px">
+            <div style="text-align: center;"><span style="word-spacing: normal;">
+                <font size="4">Invertir en Miami es una excelente decision, haberlohecho con PFS Realty Group es abrir las puertas de las grandes oportunidades y beneficios.</font>
+              </span></div>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text align="left" color="#001F33" padding="10px 25px 10px 25px">
+            <div style="text-align: center;"><span style="word-spacing: normal;">
+                <font size="6" style="">HOY TE DAMOS LA</font>
+              </span></div>
+            <div style="text-align: center;"><span style="word-spacing: normal;">
+                <font size="6">BIENVENIDA</font>
+              </span></div>
+            <div style="text-align: center;"><span style="word-spacing: normal;">
+                <font size="6" style="">A PFS ÉLITE CLUB.</font>
+              </span></div>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+      <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+        <mj-image align="center" height="auto" src="https://pfsrealty.kinsta.cloud/wp-content/uploads/2024/08/img_1.jpeg" padding="0px 0px 0px 0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper border="none" direction="ltr" text-align="center" background-color="#001F33" padding="20px 0px 20px 0px">
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text align="center" color="#ffffff" padding="25px 50px 25px 50px">
+            <div style="text-align: center;">
+              <font size="4">
+                Una exclusiva comunidad creada para fortalecer nuestros lazos, a través de la cual podrås disfrutar s diferentes beneficios, privilegios y novedades que permanentemente estaremos desarrollando en PFS Realty Group para nuestros inversionistas. Conoce mås y activa tu membresia utilizando el siguiente usuario:
+              </font>
+            </div>
+          </mj-text>
+          <mj-button align="center" background-color="#a7d6f4" color="#001F33" font-weight="normal" border-radius="3px" line-height="120%" target="_blank" vertical-align="middle" border="none" text-align="center" href="${link}" container-background-color="#001F33" font-size="20px" padding="0px 25px 20px 25px" inner-padding="10px 25px 10px 25px">Ingresar</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+      <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+        <mj-image align="center" height="auto" src="https://pfsrealty.kinsta.cloud/wp-content/uploads/2024/08/img_2.jpg" padding="0px 0px 0px 0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper border="none" direction="ltr" text-align="center" background-color="#001F33" padding="20px 0px 20px 0px">
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text align="center" color="#ffffff" padding="10px 25px 10px 25px"><a href="https://pfsrealty.com" target="_blank" style="color: inherit; text-decoration: none;" tabindex="-1">
+              <font size="4">www.pfsrealty.com</font>
+            </a></mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-divider align="center" border-width="1px" border-style="solid" border-color="#E6007C" width="80%" padding="0px 0px 10px 0px"></mj-divider>
+        </mj-column>
+      </mj-section>
+      <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
+        <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
+          <mj-text align="center" color="#ffffff" padding="10px 25px 10px 25px">
+            <font size="3">PROPIEDADES • FINANCIAMIENTO • SERVICIOS</font>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

@@ -1,0 +1,15 @@
+{
+  "name": "emails",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/mjml pfs-elite.mjml -o body.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mjml": "^4.15.3"
+  }
+}
