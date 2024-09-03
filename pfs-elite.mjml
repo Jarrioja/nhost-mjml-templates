@@ -38,22 +38,28 @@
         <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
           <mj-text align="center" color="#001F33" padding="10px 25px 10px 25px">
             <div style="text-align: center;"><span style="word-spacing: normal;">
-                <font size="4">Invertir en Miami es una excelente decision, haberlohecho con PFS Realty Group es abrir las puertas de las grandes oportunidades y beneficios.</font>
+                <font size="4">Invertir en Miami es una excelente decisión,</font>
+              </span></div>
+            <div style="text-align: center;"><span style="word-spacing: normal;">
+                <font size="4">&nbsp;haberlo hecho con <b>PFS Realty Group</b></font>
+              </span></div>
+            <div style="text-align: center;"><span style="word-spacing: normal;">
+                <font size="4">&nbsp;es abrir las puertas de grandes oportunidades y beneficios.</font>
               </span></div>
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
         <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
-          <mj-text align="left" color="#001F33" padding="10px 25px 10px 25px">
+          <mj-text align="left" color="#001F33" padding="10px 25px 10px 25px" line-height="1.2">
             <div style="text-align: center;"><span style="word-spacing: normal;">
-                <font size="6" style="">HOY TE DAMOS LA</font>
+                <font size="6" style="">HOY TE DAMOS&nbsp;</font>
               </span></div>
             <div style="text-align: center;"><span style="word-spacing: normal;">
-                <font size="6">BIENVENIDA</font>
-              </span></div>
+                <font size="6" style="">LA</font>&nbsp;
+              </span><span style="font-size: xx-large; word-spacing: normal;"><b>BIENVENIDA</b></span></div>
             <div style="text-align: center;"><span style="word-spacing: normal;">
-                <font size="6" style="">A PFS ÉLITE CLUB.</font>
+                <font size="6" style="">A <b>PFS ÉLITE CLUB</b>.</font>
               </span></div>
           </mj-text>
         </mj-column>
@@ -70,16 +76,37 @@
           <mj-text align="center" color="#ffffff" padding="25px 50px 25px 50px">
             <div style="text-align: center;">
               <font size="4">
-                Una exclusiva comunidad creada para fortalecer nuestros lazos, a través de la cual podrås disfrutar s diferentes beneficios, privilegios y novedades que permanentemente estaremos desarrollando en PFS Realty Group para nuestros inversionistas. Conoce mås y ¡activa tu membresía!</font>
+                Una exclusiva comunidad creada</font>
+            </div>
+            <div style="text-align: center;">
+              <font size="4">para fortalecer nuestros lazos,</font>
+            </div>
+            <div style="text-align: center;">
+              <font size="4">a través de la cual podrás disfrutar</font>
+            </div>
+            <div style="text-align: center;">
+              <font size="4">los diferentes beneficios, privilegios y novedades</font>
+            </div>
+            <div style="text-align: center;">
+              <font size="4">que permanentemente estaremos desarrollando&nbsp;</font>
+            </div>
+            <div style="text-align: center;">
+              <font size="4">en <b>PFS Realty Group</b> para nuestros inversionistas.&nbsp;</font>
+            </div>
+            <div style="text-align: center;">
+              <font size="4"><br></font>
+            </div>
+            <div style="text-align: center;">
+              <font size="4">Conoce más y ¡activa tu membresía!</font>
             </div>
           </mj-text>
-          <mj-button align="center" background-color="#a7d6f4" color="#001F33" font-weight="normal" border-radius="3px" line-height="120%" target="_blank" vertical-align="middle" border="none" text-align="center" href="${link}" container-background-color="#001F33" font-size="20px" padding="0px 25px 20px 25px">Ingresar</mj-button>
+          <mj-button align="center" background-color="#a7d6f4" color="#001F33" font-weight="bold" border-radius="3px" line-height="120%" target="_blank" vertical-align="middle" border="none" text-align="center" href="${link}" container-background-color="#001F33" font-size="20px" padding="0px 25px 20px 25px">Ingresar</mj-button>
         </mj-column>
       </mj-section>
     </mj-wrapper>
     <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
       <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
-        <mj-image align="center" height="auto" src="https://pfsrealty.kinsta.cloud/wp-content/uploads/2024/08/img_2.jpg" padding="0px 0px 0px 0px"></mj-image>
+        <mj-image align="center" height="auto" src="https://pfsrealty.kinsta.cloud/wp-content/uploads/2024/09/iStock-1208021092-1-1.jpg" padding="0px 0px 0px 0px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-wrapper border="none" direction="ltr" text-align="center" background-color="#001F33" padding="20px 0px 20px 0px">
@@ -98,7 +125,7 @@
       <mj-section background-repeat="repeat" background-size="auto" background-position="top center" border="none" direction="ltr" text-align="left" padding="0px 0px 0px 0px">
         <mj-column border="none" vertical-align="top" padding="0px 0px 0px 0px">
           <mj-text align="center" color="#ffffff" padding="10px 25px 10px 25px">
-            <font size="3">PROPIEDADES • FINANCIAMIENTO • SERVICIOS</font>
+            <font size="2">PROPIEDADES • FINANCIAMIENTO • SERVICIOS</font>
           </mj-text>
         </mj-column>
       </mj-section>
